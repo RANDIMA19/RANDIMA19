@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randima19&label=Profile%20views&color=0e75b6&style=flat" alt="randima19" /> </p>
 
-- 🔭 I’m currently working on **Online Computer Spare Parts Management System**
+- 🔭 I’m currently working on **Herbal Wellness Planner**
 
-- 🌱 I’m currently learning **React js, Mongo DB, java**
+- 🌱 I’m currently learning **MERN Stack, Kotlin, R**
 
 - 💬 Ask me about **java**
 
