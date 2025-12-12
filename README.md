@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randima19&label=Profile%20views&color=0e75b6&style=flat" alt="randima19" /> </p>
 
-- 🔭 I’m currently working on **Herbal Wellness Planner**
+- 🔭 I’m currently working on **Smart Multi Vendor System**
 
-- 🌱 I’m currently learning **MERN Stack, Kotlin, R**
+- 🌱 I’m currently learning **MERN Stack, Python, Java, Kotlin, R**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java or Python**
 
 - 📫 How to reach me **gvodishayrandima@gmail.com**
 
